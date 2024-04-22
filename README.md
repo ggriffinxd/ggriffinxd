@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Almeida
+# Olá! Eu sou o Gabriel Almeida
 
 - 🔭 Atualmente estou trabalhando com Front-End
 - 🌱 Estudando React
@@ -48,6 +48,9 @@ Sonho algum dia me tornar desenvolvedor Full-Stack.
   <a href="mailto:aomedagabreeu601@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> </a>
 </div>
 
-![snake gif](https://github.com/ggriffinxd/ggriffinxd/blob/output/github-contribution-grid-snake-dark.gif)
+<br>
+  
+  ![snake gif](https://github.com/ggriffinxd/ggriffinxd/blob/output/github-contribution-grid-snake.gif)
+
 
 
