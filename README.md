@@ -20,11 +20,11 @@ Sonho algum dia me tornar desenvolvedor Full-Stack.
     srcset="https://github-readme-stats.vercel.app/api?username=ggriffinxd&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=ggriffinxd&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ggriffinxd&show_icons=true" />
   
 </picture>
 <picture>
-  <img align="center" height="200"
+  <img align="center" height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggriffinxd&layout=compact&theme=radical">
 </picture>
 </div>
