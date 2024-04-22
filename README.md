@@ -10,7 +10,7 @@ Sonho algum dia me tornar desenvolvedor Full-Stack.
 
 ##
 
-<div style="display: inline_block">
+<div style="display: flex">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ggriffinxd&show_icons=true&theme=radical"
