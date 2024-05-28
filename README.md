@@ -29,7 +29,7 @@ Sonho algum dia me tornar desenvolvedor Full-Stack.
 </picture>
 </div>
 
-## Linguagens
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
