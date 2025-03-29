@@ -1,11 +1,10 @@
 # Olá! Eu sou o Gabriel Almeida
 
-- 🔭 Atualmente estou trabalhando com Front-End
-- 🌱 Estudando React
+- 🔭 Atualmente estou trabalhando com desenvolvimento Full-Stack
+- 🌱 Estudando Node
 - 😄 Pronouns: Ele/Dele
 
-<p>Procurando meu espaço no mundo da programação, através do conhecimento! <br>
-Sonho algum dia me tornar desenvolvedor Full-Stack.
+<p>Desenvolvendo soluções digitais, e em constante evolução! <br>
 </p>
 
 ##
